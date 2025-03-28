@@ -1,0 +1,3 @@
+[workspace]
+members = ["core", "server", "client", "sql_parser_client"]
+resolver = "2"
